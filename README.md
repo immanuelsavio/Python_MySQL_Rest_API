@@ -1,7 +1,7 @@
 
 # MySQL_Flask_Rest_API
 
-A Rest API Designed with Flask on a python based environment and MySQL
+A Simple Rest API Designed with Flask on a python based environment and MySQL as part of my intenship with Untapd Technologies.
 
 ### Requirements
 1.Python 3
